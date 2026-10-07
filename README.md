@@ -18,6 +18,13 @@ I'm a Software Engineering student passionate about building practical software 
   <img src="https://skillicons.dev/icons?i=java,python,php,javascript,html,css,mysql,git,github,vscode" />
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shonali280&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shonali280&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+</p>
+
 ## 📂 Featured Projects
 
 ### 📚 BookShop
