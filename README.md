@@ -14,24 +14,9 @@ I'm a Software Engineering student passionate about building practical software 
 
 ## 🛠️ Skills & Technologies
 
-**Programming Languages**
-- Java
-- Python
-- PHP
-- JavaScript
-
-**Web Development**
-- HTML
-- CSS
-
-**Database**
-- MySQL
-
-**Tools**
-- Git & GitHub
-- NetBeans
-- Visual Studio Code
-- MySQL Workbench
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,php,javascript,html,css,mysql,git,github,vscode" />
+</p>
 
 ## 📂 Featured Projects
 
